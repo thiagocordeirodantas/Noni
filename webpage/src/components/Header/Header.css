@@ -1,0 +1,89 @@
+.header-container {
+    background: #FCFFFF;
+    display: inline-flexbox;
+}
+
+.header-container-titulo {
+    display: flex;
+    margin-top: 5%;
+    justify-content: center;
+}
+
+.titulo-header {
+    color: #414D4D;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 890px;
+}
+
+.header-container-conteudo-input {
+    display: flex;
+    justify-content: center;
+    width: 560px;
+    height: 104px;
+    flex-shrink: 0;
+    border-radius: 24px;
+    border: 2px solid #E0EEEE;
+    background: #FFF;
+    box-sizing: border-box;
+    align-items: center;
+   
+}
+
+.input-header {
+    color: #566666;
+    font-family: Rubik;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    margin-right: 50px;
+}
+
+.link-input-header {
+    color: #FCFEFF;
+    font-family: Rubik;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+    border-radius: 16px;
+    width: 200px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    flex-shrink: 0;
+    background: #3D6177;
+}
+
+.link-input-header:hover {
+    background-color: black;
+}
+
+input {
+    all: unset;
+}
+
+.container-input-header {
+    display: flex;
+    justify-content: center;
+}
+
+.icones-patrocinio {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.icones-patrocinio-item {
+    width: 250.368px;
+    height: 48px;
+    flex-shrink: 0;
+   margin: 15px;
+}
