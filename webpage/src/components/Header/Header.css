@@ -1,6 +1,8 @@
 .header-container {
     background: #FCFFFF;
+    height: 700px;
     display: inline-flexbox;
+    
 }
 
 .header-container-titulo {

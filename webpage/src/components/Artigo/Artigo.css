@@ -1,0 +1,42 @@
+.container-artigo {
+    background: #C5DDDD;
+    flex-shrink: 0;
+    height: 512px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.artigo-titulo {
+    display: flex;
+    width: 1110px;
+    color: #414D4D;
+    font-family: Rubik;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; /* 54px */
+    margin-top: 100px;
+}
+
+.paragrafo-artigo {
+    color: #566666;
+    font-family: Rubik;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.paragrafo2-artigo {
+    color: #566666;
+    display: inline-flex;
+    align-items: center;
+    font-family: Rubik;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    margin-left: 1%;
+}
