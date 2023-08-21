@@ -1,4 +1,5 @@
 import Artigo from "./components/Artigo";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Main from "./components/Main";
 import Navegacao from "./components/Navegacao";
@@ -14,6 +15,7 @@ function App() {
       <Main/>
       <Noticias/>
       <Subscribe/>
+      <Footer/>
     </div>
   );
 }

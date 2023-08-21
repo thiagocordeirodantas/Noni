@@ -1,0 +1,45 @@
+.footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    flex-shrink: 0;
+  
+}
+
+.titulo-footer {
+    color: #3D6177;
+    font-family: Pacifico;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 100px;
+    line-height: normal;
+}
+
+.link-footer {
+    color: #3D6177;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    margin: 20px;
+    text-decoration: none;
+}
+
+.link-footer:hover {
+    color: #3D6177;
+    text-decoration: underline;
+}
+
+.icon-navegacao-footer {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+  
+}
+
+.footer-icons {
+    margin-right: 40px;
+}

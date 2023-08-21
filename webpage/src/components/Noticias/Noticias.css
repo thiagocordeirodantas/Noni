@@ -1,11 +1,13 @@
 .card-container {
     display: inline-flex; 
     align-items: center;
+    
 }
 
 .card-conteudo {
     margin: 20px;
     margin-top: 40px;
+    margin-bottom: 150px;
 }
 
 .aa {
@@ -69,6 +71,7 @@
     font-weight: 600;
     line-height: 150%; 
     text-decoration: none;
+    
    
 }
 
