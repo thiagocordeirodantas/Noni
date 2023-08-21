@@ -25,7 +25,7 @@ const Noticias = () => {
                 <h2 className="titulo-card">Why Design is the key to Winning the Presidential Election</h2>
                 <a href="#" className="card-link">Read Now..</a>
             </aside>
-        </section>
+        </section>  
         </div>
     </div>
     )
